@@ -1,0 +1,9 @@
+caring 2
+june 2
+data 4
+mobile 3
+bright 1
+project 2
+reality 2
+personal 2
+home 3

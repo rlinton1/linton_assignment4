@@ -1,0 +1,13 @@
+package linton_problem2;
+
+public class Application {
+	
+		   public static void main(String[] args) {
+		       String inputFile = "problem2.txt";
+		       String outputFile = "unique_word_counts.txt";
+		       DuplicateCounter duco = new DuplicateCounter();
+		       duco.count(inputFile);
+		       duco.write(outputFile);
+		   
+		}
+}
